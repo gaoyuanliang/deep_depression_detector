@@ -6,15 +6,11 @@ pip3 install graphviz
 import os
 import numpy
 import pandas
-from jessica_local_spark_building import sqlContext
-
 from tensorflow import keras
-import numpy as np
-import matplotlib.pyplot as plt
 
-from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.backend import expand_dims
 from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 condition_folder = list(os.walk("data/condition"))[0]
 control_folder = list(os.walk("data/control"))[0]
@@ -60,10 +56,15 @@ numpy.save('y.npy', y)
 x = numpy.load('x.npy')
 y = numpy.load('y.npy')
 
+'''
+(65407, 1)
+
+import matplotlib.pyplot as plt
 plt.figure()
 plt.plot(x[0])
 plt.show()
 plt.close()
+'''
 
 def make_model(input_shape):
 	input_layer = keras.layers.Input(input_shape)
