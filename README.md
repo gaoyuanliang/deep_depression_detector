@@ -1,6 +1,6 @@
 # Deep Depression Detector
 
-<img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/WX20200901-181809%402x.png" width="600">
+<img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/WX20200901-181809%402x.png" width="800">
 
 Deep learning model of depression detection from activity sensor data
 
