@@ -49,6 +49,13 @@ download my deep depression detection model file from ```https://drive.google.co
 
 ## Usage
 
+download the sample activity level from https://datasets.simula.no/depresjon/
+
+```bash
+wget https://datasets.simula.no/depresjon/data/depresjon-dataset.zip
+unzip depresjon-dataset.zip
+```
+
 ```python
 >>> from jessica_deep_depression_dertector import deep_depression_detector
 >>> 
