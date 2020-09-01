@@ -66,7 +66,7 @@ after unzip if you will see folders and activity data csv file
 in this data set, each person's activity level is stored in a csv file. Given the csv file path, the program will read the data and do the preditction. The output is a prediction with a confidence score
 
 ```python
->>> from jessica_deep_depression_dertector import deep_depression_detector
+>>> from jessica_deep_depression_detector import deep_depression_detector
 >>> 
 >>> deep_depression_detector('data/control/control_2.csv')
 {'prediction': 'nondepressed', 'confidence': 0.97963333}
