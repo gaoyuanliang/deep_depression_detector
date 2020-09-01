@@ -104,4 +104,4 @@ model.save("depression.h5")
 
 model = keras.models.load_model("depression.h5")
 
-test_loss, test_acc = model.evaluate(x, y
+test_loss, test_acc = model.evaluate(x, y)
