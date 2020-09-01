@@ -10,7 +10,7 @@ Deep learning model of depression detection from activity sensor data
   </thead>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/condition_11.png" width="400">
+      <img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/condition_11.png" width="600">
     </td>
     <td>
       <pre>
@@ -23,7 +23,7 @@ Deep learning model of depression detection from activity sensor data
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/control_2.png" width="400">
+      <img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/control_2.png" width="600">
     </td>
     <td>
       <pre>
