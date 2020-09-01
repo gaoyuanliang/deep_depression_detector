@@ -1,4 +1,4 @@
-#####jessica_deep_depression_dertector.py#####
+#####jessica_deep_depression_detector.py#####
 import os
 import numpy
 import pandas
@@ -27,4 +27,4 @@ def deep_depression_detector(activity_data_csv_file):
 	else:
 		return  {'prediction':'nondepressed', 'confidence': y_score}
 
-#####jessica_deep_depression_dertector.py#####
+#####jessica_deep_depression_detector.py#####
