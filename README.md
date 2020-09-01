@@ -37,6 +37,14 @@ Deep learning model of depression detection from activity sensor data
   </tr>
 </table>
 
+## Instillation
+
+```bash
+git clone https://github.com/gaoyuanliang/deep_depression_detector.git
+cd deep_depression_detector
+pip3 install -r 
+```
+
 ## Usage
 
 ```python
