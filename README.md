@@ -2,7 +2,7 @@
 
 Deep learning model of depression detection from activity sensor data
 
-<img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/Webp.net-gifmaker%20(1).gif" width="800">
+<img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/dgsadgsgs.gif" width="800">
 
 Same sample activity data waves and their corresponding outputs
 
