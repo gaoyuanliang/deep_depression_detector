@@ -37,7 +37,7 @@ Deep learning model of depression detection from activity sensor data
   </tr>
 </table>
 
-## Usage of the deep depression detector
+## Usage
 
 ```python
 >>> from jessica_deep_depression_dertector import deep_depression_detector
@@ -48,3 +48,6 @@ Deep learning model of depression detection from activity sensor data
 >>> deep_depression_detector('data/condition/condition_11.csv')
 {'prediction': 'depressed', 'confidence': 0.9602384}
 ```
+## Model
+
+model
