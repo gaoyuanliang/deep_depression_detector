@@ -1,10 +1,11 @@
 # deep_depression_detector
+
 Deep learning model of depression detection from activity sensor data
 
 <table>
   <thead>
     <tr>
-      <th>Input</th>
+      <th>Input activity level data</th>
       <th>Output</th>
     </tr>
   </thead>
