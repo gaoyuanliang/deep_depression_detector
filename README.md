@@ -1,4 +1,4 @@
-# deep_depression_detector
+# Deep Depression Detector
 
 Deep learning model of depression detection from activity sensor data
 
@@ -48,6 +48,6 @@ Deep learning model of depression detection from activity sensor data
 >>> deep_depression_detector('data/condition/condition_11.csv')
 {'prediction': 'depressed', 'confidence': 0.9602384}
 ```
-## Model
+## Model Structure
 
-model
+<img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/model.png" width="600">
