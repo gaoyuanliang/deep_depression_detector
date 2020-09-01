@@ -45,6 +45,8 @@ cd deep_depression_detector
 pip3 install -r 
 ```
 
+download my deep depression detection model file from ```https://drive.google.com/file/d/1mpNJOdKB9JWFfjzqnX0zTwi_-cYh-XS3/view?usp=sharing```
+
 ## Usage
 
 ```python
