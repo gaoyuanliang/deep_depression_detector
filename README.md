@@ -56,6 +56,10 @@ wget https://datasets.simula.no/depresjon/data/depresjon-dataset.zip
 unzip depresjon-dataset.zip
 ```
 
+after unzip if you will see folders and activity data csv file
+
+<img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/WX20200901-181410%402x.png" width="300">
+
 in this data set, each person's activity level is stored in a csv file. Given the csv file name, the program will read the data and do the preditction. The output is a prediction with a confidence score
 
 ```python
