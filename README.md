@@ -81,3 +81,7 @@ in this data set, each person's activity level is stored in a csv file. Given th
 This deep neural network model has an input layer, then two convolutional layers (sliding window of 30 minutes, sliding step 10 minutes), then one max-pooling layer (to pick up the most responsed outputs), then one convolutional layer, and a finally max-pooling layer. Finally a dense layer.
 
 <img src="https://raw.githubusercontent.com/gaoyuanliang/deep_depression_detector/master/model.png" width="600">
+
+## TODO 
+
+To prevent the over-fitting problem, introduce the drop-out layer and cross-validation for the trianing
