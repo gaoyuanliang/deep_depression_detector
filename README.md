@@ -44,7 +44,7 @@ Same sample activity data waves and their corresponding outputs
 ## Instillation
 
 ```bash
-git clone https://github.com/gaoyuanliang/deep_depression_detector.git
+git clone https://github.com/liang6261515/deep_depression_detector.git
 cd deep_depression_detector
 pip3 install -r requirements.txt
 ```
